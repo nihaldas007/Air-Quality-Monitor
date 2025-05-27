@@ -1,7 +1,7 @@
 # Air-Quality-Monitor
 ### **Air Quality Monitoring System with TFT Display**
 
-![image alt]([https://github.com/nihaldas007/Air-Quality-Monitor/blob/3ad3d6b6b9832df26910e7291784de445f0d25ea/Main%20Display.jpeg](https://github.com/nihaldas007/Air-Quality-Monitor/blob/ce80e9b5bbfe926ce479a8840488f19f8b116952/Main%20Display.jpg))
+![image alt](https://github.com/nihaldas007/Air-Quality-Monitor/blob/610e2badc0942c17fb78a28bc563f76d45e1cd9c/Main%20Display.jpg)
 
 #### **Project Overview**
 This project is an **Air Quality Monitoring System** that utilizes a **TFT touchscreen display** to provide real-time environmental data. The system measures key air quality parameters, including **PM2.5, CO2 levels, gas concentration, temperature, and humidity**, and visually represents the data on a **MCUFRIEND TFT screen** using graphical elements.
